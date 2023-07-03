@@ -1,6 +1,5 @@
 mikeTwoTimes
 
-currently learning just about everything. Primarily code in C++. Hopefully will end up making some pretty cool software.
+C++ bot currently learning just about everything there is to possibly learn.
 
-I am also a student at Kutztown University pursuing a BS in CS.
-
+CS Student @ Kutztown University. 
