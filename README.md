@@ -1,5 +1,5 @@
 mikeTwoTimes
 
-C++ bot currently learning just about everything.
+C++ bot currently learning how to walk.
 
 CS Student @ Kutztown University. 
