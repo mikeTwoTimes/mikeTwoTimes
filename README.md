@@ -1,5 +1,10 @@
-mikeTwoTimes
+MIKETWOTIMES
 
-C++ bot currently learning how to walk.
+Enjoying the journey of trying to be a great programmer. Learning how to walk right now, but one day I'll be making some pretty cool stuff.
 
-CS Student @ Kutztown University. 
+Random facts
+
+- Sophmore at Kutztown University
+- Emacs enjoyer
+- Grows a mediocre mustache from time to time
+- Shamelessly copied the readme format of https://github.com/ThePrimeagen/ThePrimeagen 
