@@ -4,7 +4,7 @@ Enjoying the journey of trying to be a great programmer. Learning how to walk ri
 
 Random facts
 
-- Sophmore at Kutztown University
+- Sophmore CS student
 - Emacs enjoyer
 - Grows a mediocre mustache from time to time
 - Shamelessly copied the readme format of [ThePrimeagen](https://github.com/ThePrimeagen/ThePrimeagen)
