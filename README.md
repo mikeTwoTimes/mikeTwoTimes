@@ -1,4 +1,4 @@
-[mikeTwoTimes](https://github.com/mikeTwoTimes/mikeTwoTimes)
+# mikeTwoTimes
 
 Enjoying the journey of trying to be a great programmer. Learning how to walk right now, but one day I'll be making some pretty cool stuff.
 
