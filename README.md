@@ -1,10 +1,11 @@
 # mikeTwoTimes
 
-Enjoying the journey of trying to be a great programmer. Learning how to walk right now, but one day I'll be making some pretty cool stuff.
+Enjoying the journey of trying to be a great programmer.
 
-Random facts
+# Factoids
 
 - Sophmore CS student
-- Emacs enjoyer
-- Grows a mediocre mustache from time to time
-- Shamelessly copied the readme format of [ThePrimeagen](https://github.com/ThePrimeagen/ThePrimeagen)
+- Addicted to emacs (couldn't exit vim)
+- C++ chad
+- Cool Math Games legned
+- Looking for an internship!
